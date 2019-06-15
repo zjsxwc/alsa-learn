@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/alsalearn.dir/main.c.o  -o alsalearn -lasound 
